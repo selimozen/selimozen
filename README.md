@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning, MLOps
 - 👯 I’m looking to collaborate on Model deployment, data engineering etc.
 - 💬 Ask me about NLP
-- 📫 How to reach me: [Twitter - @Selimozen007](https://twitter.com/Selimozen007),[Linkedin](linkedin.com/in/selim-özen-496527142)  
+- 📫 How to reach me: [Twitter - @Selimozen007](https://twitter.com/Selimozen007),[Linkedin](https://www.linkedin.com/in/selim-%C3%B6zen-496527142/)  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

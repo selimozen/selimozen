@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **selimozen/selimozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @Selimozen007](https://twitter.com/Selimozen007),[Linkedin](linkedin.com/in/selim-özen-496527142)  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

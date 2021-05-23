@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Model deployment, data engineering etc.
 - 💬 Ask me about NLP
 - 🚀 I love cognitive, science, space
-- 📫 How to reach me: [Twitter - @Selimozen007](https://twitter.com/Selimozen007), [Linkedin](https://www.linkedin.com/in/selim-%C3%B6zen-496527142/), [My Articles](https://www.datasciencearth.com/uyeler/mustafaselim/)
+- 📫 How to reach me: [Twitter](https://twitter.com/Selimozen007), [Linkedin](https://www.linkedin.com/in/selim-%C3%B6zen-496527142/), [My Articles](https://www.datasciencearth.com/uyeler/mustafaselim/)
 
 - <img src="https://github-readme-stats.vercel.app/api?username=selimozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 - ## 🧰 Languages and Tools:

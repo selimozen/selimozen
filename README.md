@@ -10,9 +10,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Model deployment, data engineering etc.
 - 💬 Ask me about NLP
 - 🚀 I love cognitive, science, space
-- 📫 How to reach me: [Twitter](https://twitter.com/Selimozen007), [Linkedin](https://www.linkedin.com/in/selim-%C3%B6zen-496527142/), [My Articles](https://www.datasciencearth.com/uyeler/mustafaselim/)
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-özen-496527142/)
+[![](https://img.shields.io/badge/Email-mselimozen07@gmail.com-blue)](mailto:mselimozen07@gmail.com)
+[![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/uyeler/mustafaselim/articles/)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mselimozen)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mselimozen07)
+[![](https://img.shields.io/badge/-Twitter-2EC866?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Selimozen007)
 - <img src="https://github-readme-stats.vercel.app/api?username=selimozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 - ## 🧰 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">

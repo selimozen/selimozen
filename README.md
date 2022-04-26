@@ -2,29 +2,27 @@
 ##  Welcome My Github Profile 👋
 <img src="https://github.com/selimozen/selimozen/blob/main/Group1.png">
 
-- 🔭 I’m currently working on Android mobile aplications
-- 🌱 I’m currently learning Kotlin, Java
-- 🚀 I love science, movies, crossfit 🏋️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selimozen&label=Profile%20views&color=0e75b6&style=flat" alt="selimozen" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-özen-496527142/)
-[![](https://img.shields.io/badge/Email-mselimozen07@gmail.com-blue)](mailto:mselimozen07@gmail.com)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mselimozen07)
-[![](https://img.shields.io/badge/-Twitter-2EC866?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Selimozen007)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selimozen" alt="selimozen" /></a> </p>
 
-- <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimozen&show_icons=true&locale=en&layout=compact&theme=radical" alt="mselimozen" /></p><img src="https://github-readme-stats.vercel.app/api?username=selimozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- 📫 How to reach me **mselimozen07@gmail.com**
 
-
-
-- ## 🧰 Languages and Tools:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/44001855/119270389-21089100-bc05-11eb-8290-1dc891958d17.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/44001855/119270564-eeab6380-bc05-11eb-9cfb-b1ff7e3adaab.jpeg" alt="Tensoflow" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/44001855/119270581-139fd680-bc06-11eb-839d-86520b00a04b.png" alt="Sql" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/44001855/119270625-477afc00-bc06-11eb-82bd-23828c1cc4e9.jpg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/44001855/119270669-8315c600-bc06-11eb-9eec-7b4ac6afcfaf.png" alt="Sci-kit Learn" height="40" style="vertical-align:top; margin:4px">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/selim-özen-496527142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selim-özen-496527142/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/mselimozen07?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mselimozen07?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mselimozen07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mselimozen07/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=selimozen.selimozen) [![Github](https://img.shields.io/github/followers/selimozen?label=Follow&style=social)](https://github.com/selimozen)
+<a href="https://github.com/selimozen/selimozen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimozen&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimozen&show_icons=true&locale=en" alt="selimozen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimozen&" alt="selimozen" /></p>
 

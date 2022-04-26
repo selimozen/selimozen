@@ -8,12 +8,11 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-özen-496527142/)
 [![](https://img.shields.io/badge/Email-mselimozen07@gmail.com-blue)](mailto:mselimozen07@gmail.com)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mselimozen)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mselimozen07)
 [![](https://img.shields.io/badge/-Twitter-2EC866?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Selimozen007)
 
-- <img src="https://github-readme-stats.vercel.app/api?username=selimozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimozen&show_icons=true&locale=en&layout=compact&theme=radical" alt="mselimozen" /></p>
+- <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimozen&show_icons=true&locale=en&layout=compact&theme=radical" alt="mselimozen" /></p><img src="https://github-readme-stats.vercel.app/api?username=selimozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 
 - ## 🧰 Languages and Tools:
@@ -28,3 +27,4 @@
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=selimozen.selimozen) [![Github](https://img.shields.io/github/followers/selimozen?label=Follow&style=social)](https://github.com/selimozen)
+

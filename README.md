@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimozen&" alt="selimozen" /></p>
 
+[![Selim's github activity graph](https://activity-graph.herokuapp.com/graph?username=selimozen&&theme=minimal&custom_title=Selim's%20Activity%20Graph&hide_border=true)](https://github.com/selimozen/github-readme-activity-graph)
